@@ -1,5 +1,7 @@
 # Galvanize Delivers
 
+http://mafutomo-galvanize-delivers.surge.sh/index.html
+
 In this exercise, you're tasked with creating a website for a fine dining delivery service with two pages—a landing page and an ordering page. To get started, fork and clone this repository.
 
 ## The landing page
@@ -74,4 +76,4 @@ Review the following articles on the Surge platform and then deploy your website
 
 A good domain name for this project is `USERNAME-galvanize-delivers.surge.sh` where `USERNAME` is your GitHub username in all **lowercase** letters. Once deployed and everything works as you expect, copy the URL to your site and paste it below.
 
-PASTE YOUR PRODUCTION URL HERE
+http://mafutomo-galvanize-delivers.surge.sh/index.html
